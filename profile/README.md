@@ -1,6 +1,6 @@
 # benmilne.com
 
-Open source code and agent discovery resources for [benmilne.com](https://benmilne.com) — the personal site of Ben Milne, founder of [Dwolla](https://www.dwolla.com/), [Brale](https://www.brale.xyz/), and [Basis Theory](https://basistheory.com/).
+Open source code and agent discovery resources for [benmilne.com](https://benmilne.com) — the personal site of [Ben Milne](https://benmilne.com/about), founder of [Brale](https://www.brale.xyz/).
 
 ## What's here
 
